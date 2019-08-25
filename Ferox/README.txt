@@ -1,0 +1,1 @@
+An application designed to provide a digital hardware device supplier with an online secure marketplace
